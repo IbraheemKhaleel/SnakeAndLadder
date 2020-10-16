@@ -1,0 +1,2 @@
+Welcome! We are going to perform snake and ladder program.
+Thank you!
